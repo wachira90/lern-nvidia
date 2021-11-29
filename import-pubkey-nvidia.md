@@ -11,6 +11,8 @@ N: See apt-secure(8) manpage for repository creation and user configuration deta
 ## download pub key
 ````
 wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1404/x86_64/7fa2af80.pub
+
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/7fa2af80.pub
 ````
 
 ### check infile 
